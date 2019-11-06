@@ -23,5 +23,3 @@ else:
 print("%s, you got")
 print(points)
 print("correct out of 2")
-#793591304166
-#Enkidu
