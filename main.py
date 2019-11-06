@@ -19,6 +19,6 @@ else:
   print("No, that is incorrect.")
 
 
-print("%s, you got")
+print("%s, you got" % name )
 print(points)
 print("correct out of 2")
