@@ -10,16 +10,6 @@ if q1 == "793591304166":
 else:
   print("No, that is incorrect.")
 
-q2 = input(' Question #2 In the epic of Gilgamesh, what is the name of the wild man (please capitalize the name, use proper grammar.\n')
-
-if q2 == "Enkidu":
-  print("Good job!")
-  print(" ")
-  points +=1
-else:
-  print("No, that is incorrect.")
-
-
 print("%s, you got")
 print(points)
-print("correct out of 2")
+print("correct out of 1")
